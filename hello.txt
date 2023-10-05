@@ -8,9 +8,6 @@ hello world!
 hello world!
 hello world!
 hello world!
-<<<<<<< HEAD
 hello world! 21312313
-=======
 hello world! hot-fix test
-
->>>>>>> hot-fix
+1231231231111111
